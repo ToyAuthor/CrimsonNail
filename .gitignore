@@ -1,0 +1,17 @@
+Thumbs.db
+*/Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+*~
+build/
+nbproject/
+dist/
+*.swp
+*.swo
+.vscode/
+.idea/
+cmake-build-*/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
