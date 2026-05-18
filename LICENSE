@@ -19,3 +19,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+--------------------------------------------------------------------------------
+
+Asset Licensing Exception
+
+The MIT License applied to this project is strictly limited to the source code, program logic, and configuration files.
+
+All visual and audio assets, including but not limited to images, sprites, textures, UI designs, logos, and 3D models contained in this repository
+(specifically within the `/assets` directory) are NOT covered by the MIT License.
+
+All rights to these visual assets are strictly reserved by the copyright holder ToyAuthor.
+You may not reuse, redistribute, modify, or commercially exploit these assets without explicit written permission.
